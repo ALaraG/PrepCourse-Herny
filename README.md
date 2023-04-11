@@ -1,1 +1,1 @@
-Es una prueba de como crear un repositorio y clonarlo desde github
+Esta una prueba de como crear un repositorio y clonarlo desde github
