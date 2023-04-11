@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-Repositorio de Prueba
+Es una prueba de como crear un repositorio y clonarlo desde github
